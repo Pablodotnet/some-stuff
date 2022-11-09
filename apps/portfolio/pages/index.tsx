@@ -9,7 +9,7 @@ export function Index() {
   return (
     <div className={styles.page}>
       <div className='centered-container main-color m-t-25p p-1rem light-white-border'>
-        <h2>Coming soon.</h2>
+        <h2>Coming soon...</h2>
       </div>
     </div>
   );
