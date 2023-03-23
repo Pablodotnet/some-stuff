@@ -1,3 +1,7 @@
+function DashboardContent() {
+    return (<ThemeProvider theme={mdTheme}></ThemeProvider>)
+}
+
 export default function Dashboard() {
-    return <h1>Dashboard</h1>
+    return <DashboardContent />
 }

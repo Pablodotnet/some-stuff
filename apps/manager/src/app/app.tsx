@@ -5,7 +5,7 @@ import Dashboard from './dashboard';
 export function App() {
   return (
     <>
-      <NxWelcome title="manager" />
+      <Dashboard />
       <div />
     </>
   );
